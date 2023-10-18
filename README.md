@@ -12,3 +12,18 @@ Na segunda etapa, o projeto se voltou para a gestão de dados. Um banco de dados
 
 Fase 3: Sistema Completo com Inserção de Dados
 A terceira e última fase marcou o fim do projeto. Ela abrangeu a implementação completa do sistema de classificação da qualidade do ar. O Python foi utilizado não apenas para consultar dados no banco de dados Oracle SQL, mas também para realizar a inserção de dados, criando um processo de gerenciamento de dados contínuo. Esta fase permitiu aos usuários inserir novos dados de qualidade do ar, atualizar o sistema e realizar todas as operações necessárias diretamente através do Python. Isso proporcionou um sistema completo e integrado para a CETESB.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Title: Integrator Project 1 - Collaboration between Python and Oracle SQL for CETESB's Air Quality Classification System
+
+Introduction: Integrator Project 1 represents the collaboration between Python and Oracle SQL to construct an air quality classification system for CETESB (Environmental Company of the State of São Paulo). This project was divided into three distinct phases, progressively evolving from a basic Python program to a system capable of managing air quality data with a database.
+
+Phase 1: Python-Based Proof of Concept
+The first phase of the project aimed to provide a proof of concept through the development of a Python-based program. This program was designed to showcase the fundamental functionalities of the air quality classification system. It demonstrated how air quality data could be acquired, processed, and displayed.
+
+Phase 2: Integration with Oracle SQL Database
+In the second stage, the project focused on data management. An Oracle SQL database was introduced to store and manage air quality data effectively. However, this phase primarily focused on SELECT operations, allowing users to query and retrieve data from the database.
+
+Phase 3: Complete System with Data Insertion
+The third and final phase marked the end of the project. It encompassed the full implementation of the air quality classification system. Python was used not only to query data in the Oracle SQL database but also to perform data insertion, creating a continuous data management process. This phase allowed users to input new air quality data, update the system, and perform all necessary operations directly through Python. This provided a comprehensive and integrated system for CETESB.
